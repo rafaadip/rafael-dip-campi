@@ -94,20 +94,6 @@ Uma plataforma unificada para monitoramento, análise de vulnerabilidades e resp
 └─────────────────┴───────────────────┴───────────────────────┘
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafael-dip-campi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-dip-campi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
----
-
 ## 🤝 Vamos conversar?
 
 Estou sempre aberto a trocar ideias sobre **cibersegurança**, **gestão de produtos em ambientes críticos** e **automação de processos defensivos**.
