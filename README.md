@@ -1,4 +1,4 @@
-# rafael-dip-campi<div align="center">
+<div align="center">
 
 ```
 ███╗   ██╗███████╗██╗   ██╗██████╗  ██████╗ ███████╗ ██████╗ █████╗ ███╗   ██╗
@@ -60,6 +60,10 @@ Uma plataforma unificada para monitoramento, análise de vulnerabilidades e resp
 
 ### 🛡️ SIEM & Monitoramento
 ![Wazuh](https://img.shields.io/badge/Wazuh-3D85C6?style=flat-square)
+![Falco](https://img.shields.io/badge/Falco-00AEC7?style=flat-square&logo=falco&logoColor=white)
+
+### 🔬 DFIR & Resposta a Incidentes
+![DFIR IRIS](https://img.shields.io/badge/DFIR_IRIS-6D28D9?style=flat-square)
 
 ### 📧 Simulação de Phishing & Red Team Support
 ![GoPhish](https://img.shields.io/badge/GoPhish-5C3317?style=flat-square)
@@ -86,7 +90,7 @@ Uma plataforma unificada para monitoramento, análise de vulnerabilidades e resp
 ├─────────────────┬───────────────────┬───────────────────────┤
 │ Threat Hunting  │ Vuln Management   │  Incident Response    │
 │ OSINT & Recon   │ Phishing Sim.     │  SIEM & Monitoring    │
-│ Linux Hardening │ Web App Security  │  Product Ownership    │
+│ Linux Hardening │ Web App Security  │  DFIR & Forensics     │
 └─────────────────┴───────────────────┴───────────────────────┘
 ```
 
